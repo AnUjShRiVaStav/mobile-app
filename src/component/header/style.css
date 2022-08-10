@@ -1,0 +1,29 @@
+.header{
+    /* position: fixed; */
+    /* top: 0; */
+    /* width: 100%; */
+    /* overflow-x: hidden; */
+    /* height: ; */
+    padding: 24px;
+    background-color: #000000;
+    /* z-index: 100; */
+    /* padding: 18px; */
+    /* border-bottom-left-radius: 24px; */
+    /* border-bottom-right-radius: 24px;    */
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+}
+
+.img_box{
+    display: flex;
+    color: #FFFFFF;
+    justify-content: left;
+    gap:20px
+}
+
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
